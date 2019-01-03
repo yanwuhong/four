@@ -13,3 +13,5 @@ def __str__(self):
     self.nikename = 'jy'
 
 
+
+print('good')
